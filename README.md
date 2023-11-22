@@ -1,7 +1,5 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psychip&show_icons=true&locale=en&layout=compact" alt="psychip" /></p>&nbsp;
-<br><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psychip&show_icons=true&locale=en&layout=compact" alt="psychip" /></p>
 
-<hr>
 <h3 align="left">Social Channels:</h3>
 <p align="left">
 <a href="https://twitter.com/psychip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="psychip" height="30" width="40" /></a>
